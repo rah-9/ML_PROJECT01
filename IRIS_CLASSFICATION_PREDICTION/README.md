@@ -36,7 +36,7 @@ The repository includes 3D scatter plots and a pairplot to visualize the distrib
 
 Two 3D scatter plots are generated using Plotly Express, showcasing the distribution of iris flowers based on petal length, petal width, sepal length, and sepal width.
 
-```bash
+bash ```
 
 python iris_visualizations.py
 
